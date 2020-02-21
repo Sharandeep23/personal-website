@@ -59,8 +59,13 @@ section {
     text-align: center;
 }
 
+/* For clearing floats */
 .clr {
     clear: both;
+}
+
+.text-mute {
+    font-size: 12px;
 }
 
 .name {
